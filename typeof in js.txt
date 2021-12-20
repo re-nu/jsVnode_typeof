@@ -1,0 +1,19 @@
+Execute the below code and write your description in txt file ?
+
+typeof(1)=>number
+
+typeof(1.1)=>number
+
+typeof('1.1')=>string,because  any thing inside single/double quotes is consider as string
+
+typeof(true)=>boolean, true and false are boolean data types
+
+typeof(null)=>object , 
+
+typeof(undefined)=>undefined
+
+typeof([])=>object, its an array but in js there's no datatype called array so it's datatype is object in js
+
+typeof({})=>object
+
+typeof(NaN)=>number, because nan checks for not a number
